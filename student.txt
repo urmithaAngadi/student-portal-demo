@@ -1,0 +1,7 @@
+student name : kanchi Sandhya
+student ID   : 2347390622
+student age  : 20
+student dep  : Computer Science
+student course : BCA
+student rollno : 19
+  
